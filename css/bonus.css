@@ -1,4 +1,5 @@
 @charset 'utf-8';
+
 .bonus{
   box-sizing:border-box;
   height:1150px;
@@ -216,4 +217,3 @@ img[src*="ico-bonus02"]{
 .grand_img:hover .open_date{
   color:#0b9ebb;
 }
-
